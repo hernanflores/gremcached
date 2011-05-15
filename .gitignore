@@ -1,0 +1,15 @@
+stacktrace.log
+web-app/WEB-INF/*
+dtd/
+.classpath
+.project
+.idea/
+.settings/
+*.iml
+*.swp
+*~
+*.tld
+test/reports/
+*.log
+*.log.1
+*.orig
